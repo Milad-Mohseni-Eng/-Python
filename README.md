@@ -1,12 +1,6 @@
-# -Python
-Python projects
-## Description
-Collection of Python projects (Loops, Class, OOP, Function, Numpy,.......)
+### 📘 Machine Learning Mini-Notebook
+A clean, reproducible ML demo using Python, pandas, and scikit-learn.
+Shows data preprocessing, feature engineering, model training and evaluation.
 
-## How to run
-1. Install Python 3.x
-2. Run : "python src/example.py"
-
-## Skills demonstrated
-- Python projects
-- Problem solving
+🔗 Notebook:
+https://github.com/Milad-Mohseni-Eng/-Python/tree/main/notebooks
